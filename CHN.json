@@ -1,7 +1,7 @@
 {
     "helperVer":"ver - +helperStrVer+ <span style=opacity:50%>(BUILD +helperBuildNum+)</span>",
     "ojhubname":"Object Hub",
-  "src":"+helperUrl+imgs/zh-CH.png",
+  "src":"+helperUrl+imgs/CHN.png",
     "hubMaster":"用于查找物品秀项目的目录库。",
   "main":"首页",
     "loading...":"https://objecthub.xyz/imgs/load.svg",
